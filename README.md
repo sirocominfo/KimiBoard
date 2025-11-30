@@ -1,6 +1,10 @@
 # KimiBoard
 KimiBoardは「置き型」「キーボード埋め込み型」の2タイプの使い方が出来るトラックボールマウスです。
 
+<p align="center">
+<img width="567" height="567" alt="b1b765be-3234-4fdc-a84a-bd2243c71ae7" src="https://github.com/user-attachments/assets/291e32fe-7774-463a-aa81-9312cfd7e195" /><br>
+</p>
+
 | 名前 | 仕様 |
 |:-|:-|
 | KimiBoard      | 3キー + トラックボール|
