@@ -5,7 +5,7 @@ KimiBoardは「置き型」「キーボード埋め込み型」の2タイプの�
 <img width="1133" height="567" alt="b1b765be-3234-4fdc-a84a-bd2243c71ae7" src="https://github.com/user-attachments/assets/a6d37735-f083-4630-923e-d905dc24ec03" />
 <img width="1920" height="1080" alt="KimiBoard_寸法図" src="https://github.com/user-attachments/assets/13925fcf-97dc-4161-b04b-81d70f4d8bde" />
 <img width="1920" height="1080" alt="KimiBoard_キーマップ" src="https://github.com/user-attachments/assets/7f5e2c59-dc06-4163-91fd-c17c13e68012" />
-
+https://github.com/user-attachments/assets/0174891a-fbf7-4e00-a7da-6ee2298195e4
 <br>
 </p>
 
