@@ -3,6 +3,8 @@ KimiBoardは「置き型」「キーボード埋め込み型」の2タイプの�
 
 <p align="center">
 <img width="1133" height="567" alt="b1b765be-3234-4fdc-a84a-bd2243c71ae7" src="https://github.com/user-attachments/assets/a6d37735-f083-4630-923e-d905dc24ec03" />
+ 
+<img width="1920" height="1080" alt="KimiBoard_寸法図" src="https://github.com/user-attachments/assets/13925fcf-97dc-4161-b04b-81d70f4d8bde" />
 <br>
 </p>
 
