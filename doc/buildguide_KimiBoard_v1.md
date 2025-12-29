@@ -112,20 +112,73 @@
 ### 3-1.キーソケット
 キーソケットを3つはんだ付けします
 
+![20251204_045619](https://github.com/user-attachments/assets/4dd736ba-0eea-47d7-bff6-5eae02cdd742)
+![20251204_045826](https://github.com/user-attachments/assets/bd9aa412-ebcb-4ef6-aa2a-357264b8b4a2)
+![20251204_045904](https://github.com/user-attachments/assets/91089304-018f-459c-85b5-9f31c395875e)
+![20251204_045913](https://github.com/user-attachments/assets/770bebe6-b895-4324-932c-d783b6be72b8)
+![20251204_050619](https://github.com/user-attachments/assets/eaec6146-9690-4295-94b3-351278b58b2c)
+
 ### 3-2.スライドスイッチ
 スライドスイッチを1つはんだ付けします
+
+![20251204_043239](https://github.com/user-attachments/assets/eb657b90-026c-419c-8b74-ccbb2dab905d)
+![20251204_042533](https://github.com/user-attachments/assets/31c228e3-ea42-40ef-a26e-bd884bbf7523)
+![20251204_042517](https://github.com/user-attachments/assets/49fd0bc2-3d7b-4690-b3ab-253d8e04e0f3)
+![20251204_042456](https://github.com/user-attachments/assets/5f8bc259-873c-4dc5-a42c-152c65884129)
+![20251204_042122](https://github.com/user-attachments/assets/debb269a-be9c-43ea-b1f9-a77439dc0e26)
+
 
 ### 3-3.タクトスイッチ
 3タクトスイッチを1つはんだ付けします
 
+![20251204_043957](https://github.com/user-attachments/assets/b3267ae2-648f-409d-a89f-37c1ddb516e8)
+![20251204_043927](https://github.com/user-attachments/assets/5cd65b36-0ff3-4c0e-9b23-46205da38677)
+![20251204_043455](https://github.com/user-attachments/assets/36570c9f-ccdc-491e-9e29-496919b33e69)
+![20251204_043440](https://github.com/user-attachments/assets/594ce01a-bbf6-4a90-9785-cbd02106e391)
+![20251204_043432](https://github.com/user-attachments/assets/91734d59-9e60-41f2-8cf8-606c7048304a)
+![20251204_043335](https://github.com/user-attachments/assets/f8d274a6-a589-453b-9ed6-42ba289c2142)
+
+
 ### 3-4.マイコン
 マイコンを1つはんだ付けします
+
+![20251204_032625](https://github.com/user-attachments/assets/afc9cf7b-45d5-439a-ada2-962b2b3cb044)
+![20251204_032114](https://github.com/user-attachments/assets/77238cc1-9b4f-456d-bc7e-e25a2f93c970)
+![20251204_030956](https://github.com/user-attachments/assets/82a7ef0f-a788-40a0-96f9-2d7c2851da28)
+![20251204_030114](https://github.com/user-attachments/assets/319b0dc3-94f4-4d81-86fb-854da3c42b0f)
+![20251204_030018](https://github.com/user-attachments/assets/83e3d48e-3c04-4d1d-873b-e499bd0f1493)
+![20251204_024823](https://github.com/user-attachments/assets/12b81ad7-62b3-4d75-9560-116297ba64db)
+![20251204_024551](https://github.com/user-attachments/assets/15fb2e9a-cfff-47f1-9b0b-0dbeeb684ea6)
+![20251204_024319](https://github.com/user-attachments/assets/16df9981-0b19-435c-9436-553076589acf)
+![20251204_023559](https://github.com/user-attachments/assets/f363e3ea-0397-45d4-a1c8-485b6e2d9499)
+![20251204_023532](https://github.com/user-attachments/assets/d773a9f1-76ae-4ffb-9b47-16792f31206d)
+
 
 ### 3-5.センサー
 センサーを1つはんだ付けします
 
+![20251204_041535](https://github.com/user-attachments/assets/802c4cee-7312-47b2-8eb7-01ad0cb17b44)
+![20251204_041502](https://github.com/user-attachments/assets/06bc0add-48ab-4f8a-8b9c-46f8bb0a798a)
+![20251204_040342](https://github.com/user-attachments/assets/f8fb5e2b-48a3-454c-8f0d-f1a57c0c82b4)
+![20251204_035856](https://github.com/user-attachments/assets/0d8fa83a-6930-4865-a58b-320c7fc52cf5)
+![20251204_035850](https://github.com/user-attachments/assets/a39ef7c2-6b47-4611-aaf8-4ad4b6704f83)
+![20251204_035749](https://github.com/user-attachments/assets/5469dad6-e102-46ca-8b6e-a75f1dfdb9b9)
+![20251204_035731](https://github.com/user-attachments/assets/2b0bfe63-cd92-407f-8bb8-7e8534f5b01c)
+![20251204_035717](https://github.com/user-attachments/assets/4965b7ee-b8f4-4fb9-b8fe-9686f464117c)
+![20251204_035614](https://github.com/user-attachments/assets/182826f2-ddfd-43b9-9bb3-5b3f61c0322e)
+![20251204_035403](https://github.com/user-attachments/assets/565bedcc-551d-4fe4-9009-afb00ad36c6f)
+![20251204_035316](https://github.com/user-attachments/assets/9690b924-c9e8-47d0-bbb6-66b28a42ae08)
+![20251204_033135](https://github.com/user-attachments/assets/d51bcf76-2276-4740-be2a-e7a9e985bb02)
+![20251204_033007](https://github.com/user-attachments/assets/422b9ea7-f32d-44db-8008-83cc8f689a7d)
+
+
 ### 3-6.バッテリーソケット
 バッテリーソケットを1つはんだ付けします
+
+![20251204_045158](https://github.com/user-attachments/assets/e9d6972e-b6dd-4fc5-872e-0bd1e43ed07e)
+![20251204_044817](https://github.com/user-attachments/assets/766485be-9566-4155-9f61-ec730694aadf)
+![20251204_044601](https://github.com/user-attachments/assets/c53b58c8-7e27-4831-b3e7-6a2e7a6bc60b)
+![20251204_044541](https://github.com/user-attachments/assets/d2c72c39-b4cd-4845-88e1-5f222412cffe)
 
 
 ## 4.組み立て
