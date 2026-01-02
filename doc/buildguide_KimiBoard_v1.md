@@ -112,30 +112,21 @@
 ### 3-1.キーソケット
 キーソケットを3つはんだ付けします
 
-![20251204_045619](https://github.com/user-attachments/assets/4dd736ba-0eea-47d7-bff6-5eae02cdd742)
-![20251204_045826](https://github.com/user-attachments/assets/bd9aa412-ebcb-4ef6-aa2a-357264b8b4a2)
-![20251204_045904](https://github.com/user-attachments/assets/91089304-018f-459c-85b5-9f31c395875e)
-![20251204_045913](https://github.com/user-attachments/assets/770bebe6-b895-4324-932c-d783b6be72b8)
-![20251204_050619](https://github.com/user-attachments/assets/eaec6146-9690-4295-94b3-351278b58b2c)
+<img width="1920" height="1080" alt="buildguide-01" src="https://github.com/user-attachments/assets/9d7f050e-dc2c-461d-b035-5ee6af33d281" />
+<img width="1920" height="1080" alt="buildguide-02" src="https://github.com/user-attachments/assets/cfffb79c-b6a6-47e4-b041-c7a18bab8317" />
 
 ### 3-2.スライドスイッチ
 スライドスイッチを1つはんだ付けします
 
-![20251204_042122](https://github.com/user-attachments/assets/debb269a-be9c-43ea-b1f9-a77439dc0e26)
-![20251204_042456](https://github.com/user-attachments/assets/5f8bc259-873c-4dc5-a42c-152c65884129)
-![20251204_042517](https://github.com/user-attachments/assets/49fd0bc2-3d7b-4690-b3ab-253d8e04e0f3)
-![20251204_042533](https://github.com/user-attachments/assets/31c228e3-ea42-40ef-a26e-bd884bbf7523)
-![20251204_043239](https://github.com/user-attachments/assets/eb657b90-026c-419c-8b74-ccbb2dab905d)
+<img width="1920" height="1080" alt="buildguide-05" src="https://github.com/user-attachments/assets/d5ab1b13-2b95-4aea-8500-81f55eee2087" />
 
 ### 3-3.タクトスイッチ
 3タクトスイッチを1つはんだ付けします
 
-![20251204_043335](https://github.com/user-attachments/assets/f8d274a6-a589-453b-9ed6-42ba289c2142)
-![20251204_043432](https://github.com/user-attachments/assets/91734d59-9e60-41f2-8cf8-606c7048304a)
-![20251204_043440](https://github.com/user-attachments/assets/594ce01a-bbf6-4a90-9785-cbd02106e391)
-![20251204_043455](https://github.com/user-attachments/assets/36570c9f-ccdc-491e-9e29-496919b33e69)
-![20251204_043927](https://github.com/user-attachments/assets/5cd65b36-0ff3-4c0e-9b23-46205da38677)
-![20251204_043957](https://github.com/user-attachments/assets/b3267ae2-648f-409d-a89f-37c1ddb516e8)
+<img width="1920" height="1080" alt="buildguide-08" src="https://github.com/user-attachments/assets/b463c8c4-b135-4a0b-b178-a5e678f459c4" />
+<img width="1920" height="1080" alt="buildguide-07" src="https://github.com/user-attachments/assets/18bbf0c2-8eec-4cfd-b9cb-65eaf948d11a" />
+<img width="1920" height="1080" alt="buildguide-06" src="https://github.com/user-attachments/assets/7428178e-7671-4c35-83aa-57db616387e0" />
+
 
 ### 3-4.マイコン
 マイコンを1つはんだ付けします
