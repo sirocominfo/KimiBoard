@@ -110,23 +110,29 @@
 
 ## 3.はんだ付け
 ### 3-1.キーソケット
-キーソケットを3つはんだ付けします
+キーソケットを3つはんだ付けします。  
+片方のパッドに予備はんだをするのがおすすめです。
 
-<img width="1920" height="1080" alt="buildguide-01" src="https://github.com/user-attachments/assets/9d7f050e-dc2c-461d-b035-5ee6af33d281" />
+<img width="1920" height="1080" alt="buildguide-00" src="https://github.com/user-attachments/assets/3c0145ae-50e3-45d7-9820-850d167d36aa" />
 <img width="1920" height="1080" alt="buildguide-02" src="https://github.com/user-attachments/assets/cfffb79c-b6a6-47e4-b041-c7a18bab8317" />
 
 ### 3-2.スライドスイッチ
-スライドスイッチを1つはんだ付けします
+スライドスイッチを1つはんだ付けします。  
+はんだ後に3枚目の〇で囲った部分のようにニッパーで足を短くカットしてください。  
+（そのままだとケースに収まりらない為）
 
+<img width="1920" height="1080" alt="buildguide-03" src="https://github.com/user-attachments/assets/deb769a1-dc13-40ef-8849-aca5f6248d31" />
+<img width="1920" height="1080" alt="buildguide-04" src="https://github.com/user-attachments/assets/68d369d9-bfe8-4ed9-a242-470d206c8399" />
 <img width="1920" height="1080" alt="buildguide-05" src="https://github.com/user-attachments/assets/d5ab1b13-2b95-4aea-8500-81f55eee2087" />
 
 ### 3-3.タクトスイッチ
-3タクトスイッチを1つはんだ付けします
+3タクトスイッチを1つはんだ付けします  
+こちらも、はんだ後に3枚目の〇で囲った部分のようにニッパーで足を短くカットしてください。  
+（そのままだとケースに収まりらない為）
 
-<img width="1920" height="1080" alt="buildguide-08" src="https://github.com/user-attachments/assets/b463c8c4-b135-4a0b-b178-a5e678f459c4" />
-<img width="1920" height="1080" alt="buildguide-07" src="https://github.com/user-attachments/assets/18bbf0c2-8eec-4cfd-b9cb-65eaf948d11a" />
 <img width="1920" height="1080" alt="buildguide-06" src="https://github.com/user-attachments/assets/7428178e-7671-4c35-83aa-57db616387e0" />
-
+<img width="1920" height="1080" alt="buildguide-07" src="https://github.com/user-attachments/assets/18bbf0c2-8eec-4cfd-b9cb-65eaf948d11a" />
+<img width="1920" height="1080" alt="buildguide-08" src="https://github.com/user-attachments/assets/b463c8c4-b135-4a0b-b178-a5e678f459c4" />
 
 ### 3-4.マイコン
 マイコンを1つはんだ付けします
