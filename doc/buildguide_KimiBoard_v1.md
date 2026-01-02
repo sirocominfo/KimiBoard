@@ -118,8 +118,10 @@
 
 ### 3-2.スライドスイッチ
 スライドスイッチを1つはんだ付けします。  
+マスキングテープで止めてからはんだ付けをしてください。  
+  
 はんだ後に3枚目の〇で囲った部分のようにニッパーで足を短くカットしてください。  
-（そのままだとケースに収まりらない為）
+（そのままだとケースに収まらない為）
 
 <img width="1920" height="1080" alt="buildguide-03" src="https://github.com/user-attachments/assets/deb769a1-dc13-40ef-8849-aca5f6248d31" />
 <img width="1920" height="1080" alt="buildguide-04" src="https://github.com/user-attachments/assets/68d369d9-bfe8-4ed9-a242-470d206c8399" />
@@ -128,25 +130,40 @@
 ### 3-3.タクトスイッチ
 3タクトスイッチを1つはんだ付けします  
 こちらも、はんだ後に3枚目の〇で囲った部分のようにニッパーで足を短くカットしてください。  
-（そのままだとケースに収まりらない為）
+（そのままだとケースに収まらない為）
 
 <img width="1920" height="1080" alt="buildguide-06" src="https://github.com/user-attachments/assets/7428178e-7671-4c35-83aa-57db616387e0" />
 <img width="1920" height="1080" alt="buildguide-07" src="https://github.com/user-attachments/assets/18bbf0c2-8eec-4cfd-b9cb-65eaf948d11a" />
 <img width="1920" height="1080" alt="buildguide-08" src="https://github.com/user-attachments/assets/b463c8c4-b135-4a0b-b178-a5e678f459c4" />
 
 ### 3-4.マイコン
-マイコンを1つはんだ付けします
+マイコンを1つはんだ付けします。  
+基板上のスルーホールに切り欠きが残っている場合がございますが、取らずにはんだ作業を行ってください。（製造の過程で残ってしまう場合があるようですが無理に切り取ると断線する恐れがあります。）  
 
-![20251204_023532](https://github.com/user-attachments/assets/d773a9f1-76ae-4ffb-9b47-16792f31206d)
-![20251204_023559](https://github.com/user-attachments/assets/f363e3ea-0397-45d4-a1c8-485b6e2d9499)
-![20251204_024319](https://github.com/user-attachments/assets/16df9981-0b19-435c-9436-553076589acf)
-![20251204_024551](https://github.com/user-attachments/assets/15fb2e9a-cfff-47f1-9b0b-0dbeeb684ea6)
-![20251204_024823](https://github.com/user-attachments/assets/12b81ad7-62b3-4d75-9560-116297ba64db)
-![20251204_030018](https://github.com/user-attachments/assets/83e3d48e-3c04-4d1d-873b-e499bd0f1493)
-![20251204_030114](https://github.com/user-attachments/assets/319b0dc3-94f4-4d81-86fb-854da3c42b0f)
-![20251204_030956](https://github.com/user-attachments/assets/82a7ef0f-a788-40a0-96f9-2d7c2851da28)
-![20251204_032114](https://github.com/user-attachments/assets/77238cc1-9b4f-456d-bc7e-e25a2f93c970)
-![20251204_032625](https://github.com/user-attachments/assets/afc9cf7b-45d5-439a-ada2-962b2b3cb044)
+<img width="1920" height="1080" alt="buildguide-09" src="https://github.com/user-attachments/assets/191d90d0-6881-4ff2-940f-31f5e4c6220e" />
+
+マイコンにピンヘッダを差し込みます。  
+隙間がないように奥まで差し込んでください。  
+
+<img width="1920" height="1080" alt="buildguide-10" src="https://github.com/user-attachments/assets/8fcfd346-7bb4-48fa-a84f-9010418d71f1" />
+
+そのまま基板へピンヘッダを差し込みます。  
+スルーホールからマイコンの4つのパッドが見えていることを確認してください。  
+見えていなければ逆に差し込んでしまっているので、位置を確認して差し込みなおしてください。  
+
+<img width="1920" height="1080" alt="buildguide-11" src="https://github.com/user-attachments/assets/ed38dcf3-af8f-40fc-9ebb-101412635345" />
+
+スルーホールからはんだを流し込みパッドと繋ぎます。  
+隣のパッド通しが接触しないように気を付けてはんだ付けをしてください。  
+もし、接触してしまった場合ははんだ吸い取り線を使ってやり直します。  
+修復は十分可能ですので、丁寧に吸い取ってやり直します。  
+
+<img width="1920" height="1080" alt="buildguide-12" src="https://github.com/user-attachments/assets/c0a4dd6d-0d5e-4b7f-89e5-98de401772b2" />
+<img width="1920" height="1080" alt="buildguide-13" src="https://github.com/user-attachments/assets/0c74de76-e771-43a4-b5c3-7272dde075a0" />
+<img width="1920" height="1080" alt="buildguide-14" src="https://github.com/user-attachments/assets/981731e3-8d6d-4dcb-993a-955d2e9b0cb8" />
+<img width="1920" height="1080" alt="buildguide-15" src="https://github.com/user-attachments/assets/7206adb2-6974-4d97-9e8b-c746d8f3f85d" />
+<img width="1920" height="1080" alt="buildguide-16" src="https://github.com/user-attachments/assets/828d01bc-a2e7-4f96-a124-847fc2a68f16" />
+
 
 ### 3-5.センサー
 センサーを1つはんだ付けします
