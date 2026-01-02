@@ -154,13 +154,19 @@
 <img width="1920" height="1080" alt="buildguide-11" src="https://github.com/user-attachments/assets/ed38dcf3-af8f-40fc-9ebb-101412635345" />
 
 スルーホールからはんだを流し込みパッドと繋ぎます。  
-隣のパッド通しが接触しないように気を付けてはんだ付けをしてください。  
+左右のはんだが接触しないように気を付けてはんだ付けをしてください。  
 もし、接触してしまった場合ははんだ吸い取り線を使ってやり直します。  
 修復は十分可能ですので、丁寧に吸い取ってやり直します。  
 
 <img width="1920" height="1080" alt="buildguide-12" src="https://github.com/user-attachments/assets/c0a4dd6d-0d5e-4b7f-89e5-98de401772b2" />
 <img width="1920" height="1080" alt="buildguide-13" src="https://github.com/user-attachments/assets/0c74de76-e771-43a4-b5c3-7272dde075a0" />
+
+ピンヘッダを取り外します。  
+パッドのはんだのみで接着されている状態なので、マイコンと基板を押さえながらゆっくり取り外してください。  
 <img width="1920" height="1080" alt="buildguide-14" src="https://github.com/user-attachments/assets/981731e3-8d6d-4dcb-993a-955d2e9b0cb8" />
+
+基板とマイコンの側面をはんだ付けします。  
+写真のように側面のみつながっていればOKです。  
 <img width="1920" height="1080" alt="buildguide-15" src="https://github.com/user-attachments/assets/7206adb2-6974-4d97-9e8b-c746d8f3f85d" />
 <img width="1920" height="1080" alt="buildguide-16" src="https://github.com/user-attachments/assets/828d01bc-a2e7-4f96-a124-847fc2a68f16" />
 
