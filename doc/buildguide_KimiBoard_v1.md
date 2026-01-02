@@ -148,6 +148,7 @@
 <img width="1920" height="1080" alt="buildguide-10" src="https://github.com/user-attachments/assets/8fcfd346-7bb4-48fa-a84f-9010418d71f1" />
 
 そのまま基板へピンヘッダを差し込みます。  
+奥まで隙間の内容に差し込んでください。  
 スルーホールからマイコンの4つのパッドが見えていることを確認してください。  
 見えていなければ逆に差し込んでしまっているので、位置を確認して差し込みなおしてください。  
 
@@ -166,27 +167,39 @@
 <img width="1920" height="1080" alt="buildguide-14" src="https://github.com/user-attachments/assets/981731e3-8d6d-4dcb-993a-955d2e9b0cb8" />
 
 基板とマイコンの側面をはんだ付けします。  
-写真のように側面のみつながっていればOKです。  
+写真のように側面のみ繋がっていればOKです。  
 <img width="1920" height="1080" alt="buildguide-15" src="https://github.com/user-attachments/assets/7206adb2-6974-4d97-9e8b-c746d8f3f85d" />
 <img width="1920" height="1080" alt="buildguide-16" src="https://github.com/user-attachments/assets/828d01bc-a2e7-4f96-a124-847fc2a68f16" />
 
 
 ### 3-5.センサー
-センサーを1つはんだ付けします
+センサーを1つはんだ付けします  
 
-![20251204_033007](https://github.com/user-attachments/assets/422b9ea7-f32d-44db-8008-83cc8f689a7d)
-![20251204_033135](https://github.com/user-attachments/assets/d51bcf76-2276-4740-be2a-e7a9e985bb02)
-![20251204_035316](https://github.com/user-attachments/assets/9690b924-c9e8-47d0-bbb6-66b28a42ae08)
-![20251204_035403](https://github.com/user-attachments/assets/565bedcc-551d-4fe4-9009-afb00ad36c6f)
-![20251204_035614](https://github.com/user-attachments/assets/182826f2-ddfd-43b9-9bb3-5b3f61c0322e)
-![20251204_035717](https://github.com/user-attachments/assets/4965b7ee-b8f4-4fb9-b8fe-9686f464117c)
-![20251204_035731](https://github.com/user-attachments/assets/2b0bfe63-cd92-407f-8bb8-7e8534f5b01c)
-![20251204_035749](https://github.com/user-attachments/assets/5469dad6-e102-46ca-8b6e-a75f1dfdb9b9)
-![20251204_035850](https://github.com/user-attachments/assets/a39ef7c2-6b47-4611-aaf8-4ad4b6704f83)
-![20251204_035856](https://github.com/user-attachments/assets/0d8fa83a-6930-4865-a58b-320c7fc52cf5)
-![20251204_040342](https://github.com/user-attachments/assets/f8fb5e2b-48a3-454c-8f0d-f1a57c0c82b4)
-![20251204_041502](https://github.com/user-attachments/assets/06bc0add-48ab-4f8a-8b9c-46f8bb0a798a)
-![20251204_041535](https://github.com/user-attachments/assets/802c4cee-7312-47b2-8eb7-01ad0cb17b44)
+>[!WARNING]
+> ※ここの作業のみはんだごての温度と作業時間に注意ががございます。    
+>
+> **・最大260℃までの温度**  
+> **・7秒以内でのはんだづけ**
+>  
+> が推奨されています。  
+
+
+<img width="1920" height="1080" alt="buildguide-17" src="https://github.com/user-attachments/assets/6e9a6aa7-f32e-4691-bc20-a8dde811d99b" />
+
+写真の方向でセンサーを差し込みます。
+
+<img width="1920" height="1080" alt="buildguide-18" src="https://github.com/user-attachments/assets/d1980b4a-abb5-4960-b7ee-2f0cfbe2b328" />
+<img width="1920" height="1080" alt="buildguide-19" src="https://github.com/user-attachments/assets/5dc921b6-10ca-4922-bf0f-22127328ca64" />
+<img width="1920" height="1080" alt="buildguide-20" src="https://github.com/user-attachments/assets/07b07cb3-872e-40d8-bb67-a5657657fa88" />
+<img width="1920" height="1080" alt="buildguide-21" src="https://github.com/user-attachments/assets/a4a4c612-ccbc-45a0-b800-5eb17773b4fa" />
+<img width="1920" height="1080" alt="buildguide-22" src="https://github.com/user-attachments/assets/dc1999a6-63f8-46e7-85f0-d4b2f072a378" />
+<img width="1920" height="1080" alt="buildguide-23" src="https://github.com/user-attachments/assets/4a0a591f-c6f9-485f-9519-3932e2c7e4f7" />
+<img width="1920" height="1080" alt="buildguide-24" src="https://github.com/user-attachments/assets/02d8409f-f3bb-4434-9fe0-16f5f2f27269" />
+<img width="1920" height="1080" alt="buildguide-25" src="https://github.com/user-attachments/assets/5a41bffb-fa63-4059-b317-b96c201da748" />
+<img width="1920" height="1080" alt="buildguide-26" src="https://github.com/user-attachments/assets/c88733e2-67f5-4fd5-aef9-e7073c3324b6" />
+<img width="1920" height="1080" alt="buildguide-27" src="https://github.com/user-attachments/assets/8f34f524-3602-49d8-bd1d-a41fc808fa4e" />
+<img width="1920" height="1080" alt="buildguide-28" src="https://github.com/user-attachments/assets/179c2c1a-f774-4da6-b400-4a0c8e76a5a9" />
+<img width="1920" height="1080" alt="buildguide-29" src="https://github.com/user-attachments/assets/26ba86dc-c77f-4348-96ce-36cd918516d5" />
 
 ### 3-6.バッテリーソケット
 バッテリーソケットを1つはんだ付けします
