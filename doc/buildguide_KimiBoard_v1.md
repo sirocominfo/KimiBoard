@@ -254,10 +254,11 @@
 この状態ファームウェアを書き込み、テストを行います。  
 PCと本体をケーブルで繋ぎます。  
 USB端子側の基板を裏側から素早く2度押します。  
+写真の様に持ち両側から挟むようにすると押しやすいです。  
 （「カチカチッ」とボタンの感触があります。）  
 PCがマイコンをリムーバルディスクとして認識するので、そこに次のuf2ファイルを書き込みます。  
 
-<img width="1920" height="1080" alt="buildguide-36" src="https://github.com/user-attachments/assets/139d9f7c-3528-46eb-838f-c8ff835d2229" />
+<img width="1920" height="1080" alt="buildguide-36" src="https://github.com/user-attachments/assets/4f97fa10-5bf2-4038-a764-9287046bbf44" />
 
 ### 4-2.ファームウェアの書き込み
 
