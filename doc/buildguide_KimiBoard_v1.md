@@ -257,7 +257,7 @@
 PCと本体をケーブルで繋ぎます。  
 USB端子側の基板を裏側から素早く2度押します。  
 （「カチカチッ」とボタンの感触があります。）  
-PCがリムーバルディスクとして認識するので、そこにuf2ファイルを書き込みます。  
+PCがリムーバルディスクとして認識するので、そこに次のuf2ファイルを書き込みます。  
 
 <img width="1920" height="1080" alt="buildguide-36" src="https://github.com/user-attachments/assets/139d9f7c-3528-46eb-838f-c8ff835d2229" />
 
@@ -291,7 +291,7 @@ kimiboard rgbled_adapter-seeeduino_xiao_ble-zmk.uf2
 
 ## 5.ファームウェアの書き込み
 
-[こちら]([https://github.com/sirocominfo/zmk-config-KimiBoard](https://github.com/sirocominfo/zmk-config-KimiBoard/actions/runs/20669572134/artifacts/5011659015))からzipファイルをダウンロードしてください。  
+[こちら](https://github.com/sirocominfo/zmk-config-KimiBoard/actions/runs/20669572134/artifacts/5011659015)からzipファイルをダウンロードしてください。  
 
 
 ### 5-1.リセットファームウェアの書き込み
