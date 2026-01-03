@@ -243,15 +243,13 @@
 
 ## 4.組み立てとFWの書き込み
 ### 4-1.トップケース
-トップケースに基板を取り付けます。  
+トップケースに基板をはめ込み、キースイッチを3つ取り付けます。  
 
 <img width="1920" height="1080" alt="buildguide-34" src="https://github.com/user-attachments/assets/ae5f1115-822a-43b1-8a32-985eaea6418c" />
 
 バッテリーソケットのケーブルを挟んでしまわないように注意しながら取り付けてください。  
 
 <img width="1920" height="1080" alt="buildguide-35" src="https://github.com/user-attachments/assets/113c3ee9-f570-447f-af83-6036836d7f6f" />
-
-キースイッチを3つ取り付けます。  
 
 この状態ファームウェアを書き込み、テストを行います。  
 PCと本体をケーブルで繋ぎます。  
