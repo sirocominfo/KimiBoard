@@ -289,10 +289,17 @@ kimiboard rgbled_adapter-seeeduino_xiao_ble-zmk.uf2
 <img width="1920" height="1080" alt="buildguide-39" src="https://github.com/user-attachments/assets/f778c67b-693e-4392-b0cd-2188079c8163" />
 <img width="1920" height="1080" alt="buildguide-40" src="https://github.com/user-attachments/assets/ec1e7924-8409-4e3a-bf5f-c8edefab07da" />
 
+
 リポバッテリーを取り付ける場合はケーブルの収納に少しコツがいります。  
-写真のような形にケーブルを収納してケースに取り付けてください。  
-なお、リポバッテリーの取り扱いには十分に注意してください。  
-取り扱いの不備によって発生した事故や損害については、責任を負いかねます。  
+極性を確認し、写真のような形にケーブルを収納してケースに取り付けてください。  
+
+
+>[!WARNING]
+> ※リポバッテリーの取り扱いには十分に注意してください。  
+> ※取り扱いの不備によって発生した事故や損害については、責任を負いかねます。  
+>
+> **・充電は目の届く範囲で行ってください。**  
+> **・バッテリーが膨張していたり、煙、異臭などが発生した場合は直ちに使用を停止し対処してください。** 
 
 <img width="1920" height="1080" alt="buildguide-41" src="https://github.com/user-attachments/assets/b5d68156-1135-46ff-a6c8-25772219e671" />
 <img width="1920" height="1080" alt="buildguide-42" src="https://github.com/user-attachments/assets/4eb5ef98-8f48-4a31-bf59-2b68bda91dfb" />
