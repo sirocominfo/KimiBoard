@@ -278,6 +278,7 @@ kimiboard rgbled_adapter-seeeduino_xiao_ble-zmk.uf2
 を書き込みます。  
 
 これで動作させる準備が整いましたので、各キーやトラックボールの動作テストを行ってください。  
+動作に問題がなければそのまま次の工程へ進み、組み立てを完了してください。
 
 ### 4-5.ボトムケース
 左右のボトムケースを取り付けます。  
@@ -288,21 +289,18 @@ kimiboard rgbled_adapter-seeeduino_xiao_ble-zmk.uf2
 <img width="1920" height="1080" alt="buildguide-39" src="https://github.com/user-attachments/assets/f778c67b-693e-4392-b0cd-2188079c8163" />
 <img width="1920" height="1080" alt="buildguide-40" src="https://github.com/user-attachments/assets/ec1e7924-8409-4e3a-bf5f-c8edefab07da" />
 
+リポバッテリーを取り付ける場合はケーブルの収納に少しコツがいります。  
+写真のような形にケーブルを収納してケースに取り付けてください。  
+なお、リポバッテリーの取り扱いには十分に注意してください。  
+取り扱いの不備によって発生した事故や損害については、責任を負いかねます。  
 
-## 5.ファームウェアの書き込み
-
-[こちら](https://github.com/sirocominfo/zmk-config-KimiBoard/actions/runs/20669572134/artifacts/5011659015)からzipファイルをダウンロードしてください。  
-
-
-### 5-1.リセットファームウェアの書き込み
-settings_reset-seeeduino_xiao_ble-zmk.uf2
-を書き込みます。
-
-
-### 5-2.デフォルトファームウェアの書き込み
-kimiboard rgbled_adapter-seeeduino_xiao_ble-zmk.uf2
-を書き込みます。
-
+<img width="1920" height="1080" alt="buildguide-41" src="https://github.com/user-attachments/assets/b5d68156-1135-46ff-a6c8-25772219e671" />
+<img width="1920" height="1080" alt="buildguide-42" src="https://github.com/user-attachments/assets/4eb5ef98-8f48-4a31-bf59-2b68bda91dfb" />
+<img width="1920" height="1080" alt="buildguide-43" src="https://github.com/user-attachments/assets/2c4e55f5-fc2a-4730-8845-964b99c33303" />
+<img width="1920" height="1080" alt="buildguide-44" src="https://github.com/user-attachments/assets/f5f9040c-1272-4bc8-911f-91e16cdd2490" />
+<img width="1920" height="1080" alt="buildguide-45" src="https://github.com/user-attachments/assets/89b3d0c8-4f57-4377-bbd0-70e5ee162edd" />
+<img width="1920" height="1080" alt="buildguide-46" src="https://github.com/user-attachments/assets/ed98eccf-4425-4317-b5c1-382f6be75fed" />
+<img width="1920" height="1080" alt="buildguide-47" src="https://github.com/user-attachments/assets/2684f01d-8193-477c-b983-b8eec30f58b1" />
 
 ## 6.キーマップの編集  
 1.こちら[https://zmk.studio/](https://zmk.studio/)へアクセス  
