@@ -263,7 +263,7 @@ PCがリムーバルディスクとして認識するので、そこに次のuf2
 
 ### 4-2.ファームウェアの書き込み
 
-[こちら]([https://github.com/sirocominfo/zmk-config-KimiBoard](https://github.com/sirocominfo/zmk-config-KimiBoard/actions/runs/20669572134/artifacts/5011659015))からzipファイルをダウンロードしてください。  
+[こちら](https://github.com/sirocominfo/zmk-config-KimiBoard/actions/runs/20669572134/artifacts/5011659015)からzipファイルをダウンロードしてください。  
 
 ### 4-3.リセットファームウェアの書き込み
 settings_reset-seeeduino_xiao_ble-zmk.uf2
