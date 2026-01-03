@@ -303,7 +303,7 @@ kimiboard rgbled_adapter-seeeduino_xiao_ble-zmk.uf2
 <img width="1920" height="1080" alt="buildguide-46" src="https://github.com/user-attachments/assets/ed98eccf-4425-4317-b5c1-382f6be75fed" />
 <img width="1920" height="1080" alt="buildguide-47" src="https://github.com/user-attachments/assets/2684f01d-8193-477c-b983-b8eec30f58b1" />
 
-## 6.キーマップの編集  
+## 5.キーマップの編集  
 1.こちら[https://zmk.studio/](https://zmk.studio/)へアクセス  
 2.画面中央の「USB」をクリックします  
 3.KimiBoard(USB)を選択し「接続」を押します  
