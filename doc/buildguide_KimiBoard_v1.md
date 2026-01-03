@@ -183,21 +183,41 @@
 >  
 > が推奨されています。  
 
+写真の方向でセンサーを差し込みます。  
 
 <img width="1920" height="1080" alt="buildguide-17" src="https://github.com/user-attachments/assets/6e9a6aa7-f32e-4691-bc20-a8dde811d99b" />
 
-写真の方向でセンサーを差し込みます。
+裏側からマスキングテープで固定します。  
 
 <img width="1920" height="1080" alt="buildguide-18" src="https://github.com/user-attachments/assets/d1980b4a-abb5-4960-b7ee-2f0cfbe2b328" />
+
+左右合わせて16か所はんだ付けします。  
+温度に注意しながらゆっくり作業してください。  
+
 <img width="1920" height="1080" alt="buildguide-19" src="https://github.com/user-attachments/assets/5dc921b6-10ca-4922-bf0f-22127328ca64" />
+
+はんだ付けが完了しましたら、センサーの保護シールを剝がします。  
+ここで剥がし忘れて次の作業に移ってしまうとセンサーが全く反応しなくなってしまうので、剥がし忘れないようにしてください。  
+
 <img width="1920" height="1080" alt="buildguide-20" src="https://github.com/user-attachments/assets/07b07cb3-872e-40d8-bb67-a5657657fa88" />
 <img width="1920" height="1080" alt="buildguide-21" src="https://github.com/user-attachments/assets/a4a4c612-ccbc-45a0-b800-5eb17773b4fa" />
+
+シールを剥がしましたら、センサーにレンズを取り付けます。  
+
 <img width="1920" height="1080" alt="buildguide-22" src="https://github.com/user-attachments/assets/dc1999a6-63f8-46e7-85f0-d4b2f072a378" />
+
+裏側に飛び出しているレンズの脚を溶かして固定します。  
+ピンセットの上からはんだごてを押し当てて熱で脚を溶かします。  
+（この作業をしないとケースに基板が収まらなくなってしまいます。）  
+
 <img width="1920" height="1080" alt="buildguide-23" src="https://github.com/user-attachments/assets/4a0a591f-c6f9-485f-9519-3932e2c7e4f7" />
 <img width="1920" height="1080" alt="buildguide-24" src="https://github.com/user-attachments/assets/02d8409f-f3bb-4434-9fe0-16f5f2f27269" />
 <img width="1920" height="1080" alt="buildguide-25" src="https://github.com/user-attachments/assets/5a41bffb-fa63-4059-b317-b96c201da748" />
 <img width="1920" height="1080" alt="buildguide-26" src="https://github.com/user-attachments/assets/c88733e2-67f5-4fd5-aef9-e7073c3324b6" />
 <img width="1920" height="1080" alt="buildguide-27" src="https://github.com/user-attachments/assets/8f34f524-3602-49d8-bd1d-a41fc808fa4e" />
+
+写真のように脚が溶け広がっていればOKです。  
+
 <img width="1920" height="1080" alt="buildguide-28" src="https://github.com/user-attachments/assets/179c2c1a-f774-4da6-b400-4a0c8e76a5a9" />
 <img width="1920" height="1080" alt="buildguide-29" src="https://github.com/user-attachments/assets/26ba86dc-c77f-4348-96ce-36cd918516d5" />
 
