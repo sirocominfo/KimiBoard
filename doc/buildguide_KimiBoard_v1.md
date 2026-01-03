@@ -196,7 +196,7 @@
 
 <img width="1920" height="1080" alt="buildguide-19" src="https://github.com/user-attachments/assets/5dc921b6-10ca-4922-bf0f-22127328ca64" />
 
-はんだ付けが完了しましたら、センサーの保護シールを剝がします。  
+はんだ付けが完了しましたら、センサーの保護シール（2枚）を剝がします。  
 ここで剥がし忘れて次の作業に移ってしまうとセンサーが全く反応しなくなってしまうので、剥がし忘れないようにしてください。  
 
 <img width="1920" height="1080" alt="buildguide-20" src="https://github.com/user-attachments/assets/07b07cb3-872e-40d8-bb67-a5657657fa88" />
