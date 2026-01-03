@@ -203,11 +203,13 @@
 <img width="1920" height="1080" alt="buildguide-21" src="https://github.com/user-attachments/assets/a4a4c612-ccbc-45a0-b800-5eb17773b4fa" />
 
 シールを剥がしましたら、センサーにレンズを取り付けます。  
+向きがありますので、写真の方向で取り付けてください。  
 
 <img width="1920" height="1080" alt="buildguide-22" src="https://github.com/user-attachments/assets/dc1999a6-63f8-46e7-85f0-d4b2f072a378" />
 
 裏側に飛び出しているレンズの脚を溶かして固定します。  
 ピンセットの上からはんだごてを押し当てて熱で脚を溶かします。  
+少しこて先にはんだを乗せると熱が伝わりやすくなります。  
 （この作業をしないとケースに基板が収まらなくなってしまいます。）  
 
 <img width="1920" height="1080" alt="buildguide-23" src="https://github.com/user-attachments/assets/4a0a591f-c6f9-485f-9519-3932e2c7e4f7" />
@@ -222,12 +224,23 @@
 <img width="1920" height="1080" alt="buildguide-29" src="https://github.com/user-attachments/assets/26ba86dc-c77f-4348-96ce-36cd918516d5" />
 
 ### 3-6.バッテリーソケット
-バッテリーソケットを1つはんだ付けします
+バッテリーソケットを1つはんだ付けします。  
+写真の位置で赤黒のケーブルを通します。  
+撚り線の先端を指で少しねじると通しやすくなります。  
 
-![20251204_044541](https://github.com/user-attachments/assets/d2c72c39-b4cd-4845-88e1-5f222412cffe)
-![20251204_044601](https://github.com/user-attachments/assets/c53b58c8-7e27-4831-b3e7-6a2e7a6bc60b)
-![20251204_044817](https://github.com/user-attachments/assets/766485be-9566-4155-9f61-ec730694aadf)
-![20251204_045158](https://github.com/user-attachments/assets/e9d6972e-b6dd-4fc5-872e-0bd1e43ed07e)
+<img width="1920" height="1080" alt="buildguide-30" src="https://github.com/user-attachments/assets/c0118acd-6774-4485-bfd9-53f50486b6ac" />
+
+裏側からきちんと撚り線が飛び出していることを確認し、マスキングテープで固定しはんだ付けを行います。  
+
+<img width="1920" height="1080" alt="buildguide-31" src="https://github.com/user-attachments/assets/5a7d9950-07b4-456b-ac62-c96890889c04" />
+<img width="1920" height="1080" alt="buildguide-32" src="https://github.com/user-attachments/assets/0f7bd657-f141-42e6-bad3-52fe308d0f39" />
+
+はんだ箇所がセンサーの高さより飛び出している場合は先端を少しカットしてください。
+
+<img width="1920" height="1080" alt="buildguide-33" src="https://github.com/user-attachments/assets/a5cb6151-683e-4456-82e8-88ba39d2486d" />
+
+以上ではんだ作業は終了です。  
+この時点でファームウェアを書き込んでテストをしてもよいです。  
 
 ## 4.組み立て
 ### 4-1.トップケース
