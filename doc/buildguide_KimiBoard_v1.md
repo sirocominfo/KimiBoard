@@ -50,7 +50,7 @@
 |:-|---:|:-|
 | 基板                           | 1個 | 全パーツはんだ済み |
 | マイコン                       | 1個 | xiao nRF52840（基板へはんだ済み）|
-| ケース                         | 1組 | トップx1 ボトムx2 アンダーカバーx1|
+| ケース                         | 1組 | トップx1 ボトムx2 ボトムカバーx1|
 | キーボード埋め込み用パーツ       | 1個 | 左側パーツx1 埋め込み用底面部パーツ（7mm用 x3 8mm用 x3 9mm用 x3）|
 | 20mm POMボール                 | 1個 | 白or黒|
 | トラックボール読み取りセンサー   | 1個 | PMW3610（基板へはんだ済み）|
@@ -70,7 +70,7 @@
 | 名前 | 数 | 備考 |
 |:-|---:|:-|
 | 基板                            | 1個 | はんだ付けが必要です|
-| ケース                          | 1組 | トップx1 ボトムx2 アンダーカバーx1|
+| ケース                          | 1組 | トップx1 ボトムx2 ボトムカバーx1|
 | キーボード埋め込み用パーツ        | 1個 | 左側パーツx1 埋め込み用底面部パーツ（7mm用 x3 8mm用 x3 9mm用 x3）|
 | キーソケット                     | 3個 | Kailh ChocV2 互換用ホットスワップソケット |
 | 20mm POMボール                  | 1個 | 白or黒|
@@ -240,25 +240,68 @@
 <img width="1920" height="1080" alt="buildguide-33" src="https://github.com/user-attachments/assets/a5cb6151-683e-4456-82e8-88ba39d2486d" />
 
 以上ではんだ作業は終了です。  
-この時点でファームウェアを書き込んでテストをしてもよいです。  
 
-## 4.組み立て
+## 4.組み立てとFWの書き込み
 ### 4-1.トップケース
 トップケースに基板を取り付けます。  
-バッテリーソケットを挟んでしまわないように注意しながら取り付けてください。  
 
-### 4-2.ボトムケース
+<img width="1920" height="1080" alt="buildguide-34" src="https://github.com/user-attachments/assets/ae5f1115-822a-43b1-8a32-985eaea6418c" />
+
+バッテリーソケットのケーブルを挟んでしまわないように注意しながら取り付けてください。  
+
+<img width="1920" height="1080" alt="buildguide-35" src="https://github.com/user-attachments/assets/113c3ee9-f570-447f-af83-6036836d7f6f" />
+
+キースイッチを3つ取り付けます。  
+
+この状態ファームウェアを書き込み、テストを行います。  
+PCと本体をケーブルで繋ぎます。  
+USB端子側の基板を裏側から素早く2度押します。  
+（「カチカチッ」とボタンの感触があります。）  
+PCがリムーバルディスクとして認識するので、そこにuf2ファイルを書き込みます。  
+
+<img width="1920" height="1080" alt="buildguide-36" src="https://github.com/user-attachments/assets/139d9f7c-3528-46eb-838f-c8ff835d2229" />
+
+### 4-2.ファームウェアの書き込み
+
+[こちら]([https://github.com/sirocominfo/zmk-config-KimiBoard](https://github.com/sirocominfo/zmk-config-KimiBoard/actions/runs/20669572134/artifacts/5011659015))からzipファイルをダウンロードしてください。  
+
+### 4-3.リセットファームウェアの書き込み
+settings_reset-seeeduino_xiao_ble-zmk.uf2
+を書き込みます。  
+
+書き込み終了後にエラーが出ますが、正常に書き込まれているので無視してしまってかまいません。  
+
+もう一度USB端子側の基板を裏側から素早く2度押しPCに認識させます。
+
+### 4-4.デフォルトファームウェアの書き込み
+kimiboard rgbled_adapter-seeeduino_xiao_ble-zmk.uf2
+を書き込みます。  
+
+これで動作させる準備が整いましたので、各キーやトラックボールの動作テストを行ってください。  
+
+### 4-5.ボトムケース
 左右のボトムケースを取り付けます。  
+ボトムカバーを押さえながらスライドして取り付けます。  
+
+<img width="1920" height="1080" alt="buildguide-37" src="https://github.com/user-attachments/assets/b9ee2c70-fa9c-41e3-a3fd-87f929f422eb" />
+<img width="1920" height="1080" alt="buildguide-38" src="https://github.com/user-attachments/assets/9bb91e62-cb25-44ef-8b38-8fa7c0fbf3c6" />
+<img width="1920" height="1080" alt="buildguide-39" src="https://github.com/user-attachments/assets/f778c67b-693e-4392-b0cd-2188079c8163" />
+<img width="1920" height="1080" alt="buildguide-40" src="https://github.com/user-attachments/assets/ec1e7924-8409-4e3a-bf5f-c8edefab07da" />
 
 
 ## 5.ファームウェアの書き込み
+
+[こちら]([https://github.com/sirocominfo/zmk-config-KimiBoard](https://github.com/sirocominfo/zmk-config-KimiBoard/actions/runs/20669572134/artifacts/5011659015))からzipファイルをダウンロードしてください。  
+
+
 ### 5-1.リセットファームウェアの書き込み
-リセットファームウェアをダウンロードします
-[こちら](https://github.com/sirocominfo/zmk-config-KimiBoard)からzipファイルをダウンロードしてください。
+settings_reset-seeeduino_xiao_ble-zmk.uf2
+を書き込みます。
+
 
 ### 5-2.デフォルトファームウェアの書き込み
-デフォルトファームウェアをダウンロードします
-[こちら](https://github.com/sirocominfo/zmk-config-KimiBoard)からzipファイルをダウンロードしてください。
+kimiboard rgbled_adapter-seeeduino_xiao_ble-zmk.uf2
+を書き込みます。
 
 
 ## 6.キーマップの編集  
