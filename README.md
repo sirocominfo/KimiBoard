@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/cbf3be87-d5be-42f5-90ed-8095ebd1f1cc
 |:-|:-|
 | KimiBoard      | 3キー + トラックボール|
 | KimiBoard Plus      | 6キー + トラックボール|
-| KimiBoard Long| 6キー + トラックボール + ロータリーエンコーダー x 3|
+| KimiBoard Long| 6キー + トラックボール + ロータリーエンコーダー x 2|
 
 
 【特徴】
